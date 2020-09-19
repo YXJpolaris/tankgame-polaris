@@ -1,0 +1,10 @@
+
+Debug/shabi.ilk
+shabi.opensdf
+shabi.sdf
+Debug/shabi.pdb
+*.ipch
+*.tlog
+*.obj
+*.log
+*.idb
